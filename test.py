@@ -1,2 +1,3 @@
-a="john"
-print(a)
+a = "John "
+b = "is a developer!"
+print(a + b)
